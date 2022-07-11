@@ -1,23 +1,15 @@
-# Next.js + Tailwind CSS Example
+# Instagram Clone
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+A fully-functioning Instagram clone built using Next.js. Upload photos, add captions, like + unlike posts, store the all of the post data and comment/liking/unliking data in the Firebase Database. Styled with Tailwind CSS, user authorization done via NextAuth. 
 
-## Deploy your own
+# Screenshots and Walkthrough Video
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+![insta rebuild 8](https://user-images.githubusercontent.com/91355631/178174175-58ccee4f-e169-45f1-8cbc-1cfdc7f45bc0.png)
+![insta rebuild 7](https://user-images.githubusercontent.com/91355631/178174176-152862f7-a55c-4fbd-b774-5d02500fe300.png)
+![insta rebuild 6](https://user-images.githubusercontent.com/91355631/178174177-dff0f539-56a5-4a6e-8e3f-4dbc39744d18.png)
+![insta rebuild 5](https://user-images.githubusercontent.com/91355631/178174179-1d4ec6bd-2a05-4d66-91d9-33288a1db08d.png)
+![insta rebuild 4](https://user-images.githubusercontent.com/91355631/178174180-429d9927-e691-4b44-a543-904a3f91de79.png)
+![insta rebuild 2](https://user-images.githubusercontent.com/91355631/178174181-0b4dc4c2-8564-4801-bf01-04b7b4c6b185.png)
+![insta rebuild](https://user-images.githubusercontent.com/91355631/178174183-ae533252-fd97-4bd2-90c6-13251192c152.png)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
 
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
