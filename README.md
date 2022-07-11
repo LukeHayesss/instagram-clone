@@ -2,7 +2,7 @@
 
 A fully-functioning Instagram clone built using Next.js. Upload photos, add captions, like + unlike posts, store the all of the post data and comment/liking/unliking data in the Firebase Database. Styled with Tailwind CSS, user authorization done via NextAuth. 
 
-# Screenshots and Walkthrough Video
+# Screenshots
 
 ![insta rebuild 8](https://user-images.githubusercontent.com/91355631/178174175-58ccee4f-e169-45f1-8cbc-1cfdc7f45bc0.png)
 ![insta rebuild 7](https://user-images.githubusercontent.com/91355631/178174176-152862f7-a55c-4fbd-b774-5d02500fe300.png)
@@ -12,4 +12,8 @@ A fully-functioning Instagram clone built using Next.js. Upload photos, add capt
 ![insta rebuild 2](https://user-images.githubusercontent.com/91355631/178174181-0b4dc4c2-8564-4801-bf01-04b7b4c6b185.png)
 ![insta rebuild](https://user-images.githubusercontent.com/91355631/178174183-ae533252-fd97-4bd2-90c6-13251192c152.png)
 
+
+# Walkthrough Video
+
+https://user-images.githubusercontent.com/91355631/178179381-8c1c2bc8-8f43-4cd2-9b67-3cd963c7209e.mp4
 
